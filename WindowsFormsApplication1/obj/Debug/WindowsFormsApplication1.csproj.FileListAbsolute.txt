@@ -1,0 +1,27 @@
+C:\Users\P4L\Documents\GitHub\CSharp_course\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\P4L\Documents\GitHub\CSharp_course\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\P4L\Documents\GitHub\CSharp_course\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\P4L\Documents\GitHub\CSharp_course\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\P4L\Documents\GitHub\CSharp_course\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\P4L\Documents\GitHub\CSharp_course\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\P4L\Documents\GitHub\CSharp_course\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\P4L\Documents\GitHub\CSharp_course\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\P4L\Documents\GitHub\CSharp_course\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\P4L\Documents\GitHub\CSharp_course\Task_6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\P4L\Documents\GitHub\CSharp_course\Task_6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\P4L\Documents\GitHub\CSharp_course\Task_6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\P4L\Documents\GitHub\CSharp_course\Task_6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\P4L\Documents\GitHub\CSharp_course\Task_6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\P4L\Documents\GitHub\CSharp_course\Task_6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\P4L\Documents\GitHub\CSharp_course\Task_6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\P4L\Documents\GitHub\CSharp_course\Task_6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\P4L\Documents\GitHub\CSharp_course\Task_6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+I:\Рабочий стол\CSharp_course-master\Task_6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+I:\Рабочий стол\CSharp_course-master\Task_6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+I:\Рабочий стол\CSharp_course-master\Task_6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+I:\Рабочий стол\CSharp_course-master\Task_6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+I:\Рабочий стол\CSharp_course-master\Task_6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+I:\Рабочий стол\CSharp_course-master\Task_6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+I:\Рабочий стол\CSharp_course-master\Task_6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+I:\Рабочий стол\CSharp_course-master\Task_6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+I:\Рабочий стол\CSharp_course-master\Task_6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
